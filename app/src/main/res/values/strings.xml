@@ -6,7 +6,7 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
 
-
+    <string name="login">"로그인"</string>
     <string name="menu_group">"공유 그룹"</string>
     <string name="menu_join_group">"공유 참여하기"</string>
     <string name="menu_settings">"설정"</string>

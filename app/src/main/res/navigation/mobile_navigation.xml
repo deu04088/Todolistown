@@ -6,6 +6,13 @@
     app:startDestination="@+id/nav_group">
 
     <fragment
+        android:id="@+id/nav_login"
+        android:name="com.example.todolistown.Login"
+        android:label="@string/login"
+        tools:layout="@layout/sign"/>
+
+
+    <fragment
         android:id="@+id/nav_group"
         android:name="com.example.todolistown.ui.group.GroupFragment"
         android:label="@string/menu_group"
